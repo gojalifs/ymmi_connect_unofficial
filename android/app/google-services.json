@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410840299479",
+    "project_id": "data-karyawan-bb365",
+    "storage_bucket": "data-karyawan-bb365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410840299479:android:6238192582153807503d92",
+        "android_client_info": {
+          "package_name": "com.fajar.ymmi_unofficial.ymmi_connect_unofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410840299479-0sht72mr4196sinbethl73uqkjm8o2po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofk_P7ome4qqteCT-c-65i78V1hB45iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410840299479-0sht72mr4196sinbethl73uqkjm8o2po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
